@@ -27,7 +27,7 @@ Currently, the following editing operations are supported:
 Clone the repo and install the required Python packages by
 
 ```bash
-git clone git@github.com:ZhangGe6/onnx-modifier.git
+git clone https://github.com/cuongdtone/onnx-fm-visualizer
 cd onnx-fm-visualizer
 pip install onnx flask numpy opencv-python
 ```
